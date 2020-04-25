@@ -208,7 +208,8 @@ elif Run_Mode == 'Aadhaar Card':
                     st.write("Execution Mode =>",r['mode_executed'])
                     if r['mode_executed'] == "OCR-MASKING":
                         st.write("Aadhaar List =>**",r['aadhaar_list'][0],"**")
-                        st.write("Validated Aadhaar list =>**",r['valid_aadhaar_list'][0],"**")
+                        if len(r['valid_aadhaar_list'])>0:    
+                                st.write("Validated Aadhaar list =>**",r['valid_aadhaar_list'][0],"**")
                 else:
                     st.write("Execution Mode =>",r['mode_executed'])
                     st.write("Error =>",r['error'])
@@ -229,14 +230,3 @@ else:
     st.write(" **Yowza! we are yet baking it for you ...** :penguin:")
     comingsoon = 'resources/coming-soon.jpg'
     st.image(open(comingsoon, 'rb').read(), caption='', use_column_width=True)
-
-
-
-
-#
-#w = st.file_uploader("Upload a CSV file", type="csv")
-#if w:
-#    import pandas as pd
-#
-#    data = pd.read_csv(w)
-#    st.write(data)
