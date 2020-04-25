@@ -12,6 +12,8 @@ Streamlit based web frontend for **PyraDox :page_with_curl:**
 
 [![PyraDox Frontend Demo](https://img.youtube.com/vi/Knyxk3vAONk/0.jpg)](https://www.youtube.com/watch?v=Knyxk3vAONk)
 
+[![PyraDox Frontend Demo](resources/demo.png?raw=true "Features")](https://www.youtube.com/watch?v=Knyxk3vAONk)
+
 *****************************************************
 ## Installation
 
