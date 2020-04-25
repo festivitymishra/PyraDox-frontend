@@ -16,11 +16,11 @@ pip install streamlit
 ```
 #### Steps
 - Run PyraDox
-##### Build Your Own locally
+##### Build Your Own PyraDox backend locally
 ```bash
 python app.py #for using directly
 ```
-##### Build Your Own using Docker
+##### OR Build PyraDox backend using Docker
 ```bash
 docker build -t pyradox .
 docker run -p 9001:9001 pyradox
