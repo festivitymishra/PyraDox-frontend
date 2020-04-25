@@ -35,4 +35,17 @@ docker run -p 9001:9001 pyradox
 streamlit run pyradox.py
 ```
 *****************************************************
+
+
+## Notes
+
+### License
+[Apache License 2.0](https://github.com/festivitymishra/PyraDox-frontend/blob/master/LICENSE)
+
+#### Sample Aadhar Cards are just samples taken from google search and not original documents.
+If there is anything totally unclear, or not working, please feel free to file an issue.
+reach out at [Email](utsav.iitkgp@gmail.com) :innocent:
+
+If this project was helpful for you please show some love :star:
+
 P.S. **Streamlit** is :heart:
