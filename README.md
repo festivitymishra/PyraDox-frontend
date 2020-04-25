@@ -8,7 +8,7 @@ Streamlit based web frontend for **PyraDox :page_with_curl:**
 *****************************************************
 ## Demo
 
-![Mask First Eight Digit Demo](https://youtu.be/Knyxk3vAONk)
+![Mask First Eight Digit Demo](resources/demo.png?raw=true "Features")
 
 *****************************************************
 ## Installation
