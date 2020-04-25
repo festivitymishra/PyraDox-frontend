@@ -7,12 +7,8 @@ Streamlit based web frontend for **PyraDox :page_with_curl:**
 [PyraDox](https://github.com/festivitymishra/PyraDox) is a simple tool which helps in document **digitization** by extracting text information and **masking** of personal information with the help of Tesseract-ocr.
 *****************************************************
 ## Demo
-
-![Mask First Eight Digit Demo](resources/demo.png?raw=true "Features")
-
-[![PyraDox Frontend Demo](https://img.youtube.com/vi/Knyxk3vAONk/0.jpg)](https://www.youtube.com/watch?v=Knyxk3vAONk)
-
-[![PyraDox Frontend Demo](resources/demo.png?raw=true "Features")](https://www.youtube.com/watch?v=Knyxk3vAONk)
+#### click on the below video to play.
+[![PyraDox Frontend Demo](resources/demo.png?raw=true "Click to play")](https://www.youtube.com/watch?v=Knyxk3vAONk)
 
 *****************************************************
 ## Installation
