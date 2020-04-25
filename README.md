@@ -10,6 +10,8 @@ Streamlit based web frontend for **PyraDox :page_with_curl:**
 
 ![Mask First Eight Digit Demo](resources/demo.png?raw=true "Features")
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Knyxk3vAONk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *****************************************************
 ## Installation
 
