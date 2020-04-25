@@ -1,4 +1,4 @@
-# PyraDox-frontend:zap: :heart:
+# PyraDox-frontend:zap: 
 [![Language](https://img.shields.io/badge/Python-3.6.5-blue)](https://github.com/festivitymishra/PyraDox-frontend)
 [![tool](https://img.shields.io/badge/Streamlit-%3C3-red)](https://streamlit.io)
 
@@ -29,5 +29,5 @@ docker run -p 9001:9001 pyradox
 ```bash
 streamlit run pyradox.py
 ```
-
-
+*****************************************************
+P.S. **Streamlit** is :heart:
